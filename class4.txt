@@ -1,0 +1,4 @@
+class 4
+1)tuple mean list jo hai wo ( ) me likhi jaigir isme kch bhi replace r add r remove waghera nh hosakta 
+2)tuple is immutable(matlab koi changesnh hoigi)
+3)tuple me list bhi pass kersakte hai.

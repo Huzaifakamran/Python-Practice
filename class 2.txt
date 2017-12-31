@@ -1,0 +1,55 @@
+CLASS#2:
+
+5 questions data science can be answer:
+
+1.Is this A or B?.(Classification Problem)(Ya to A hoga yato B hoga)
+2.Is this weird?.(identify kerle ke ye weird hai)(Anomaly Detection)
+3.How much-or-How many?.(regression)
+4.How is this organized?(1 jese chezo ko identify kerleta hai)(clustering)
+5.What should i do next?(reinforcement learning)
+
+ 1.IS THIS A or B:(Classification Algorithems):-
+jb classes zyada hojati hai to use clustering ki trf lejate hai
+ 2.IS THIS WEIRD?(Anomaly detection algorihtems):
+jo kam pattern se hat ker horaha hou wo anomaly hai.
+ 3.Regression:
+present situation ko dekhte hoe future ki value predict kerta hai
+ 4.HOW IS THIS  ORGANIZED:(Clustering)
+multiple calsses hogijinki property zyada match kerrhi hogi unko 1 sath kerdega
+ 5.WHAT I SHOULD I DO:(REINFORCEMENT)
+1)data ko khud read kerta hai matlab enviroment me ja ker khud sekhega & label nh hoga
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+agar data hou to:
+IS YOUR DATA:
+1)Relavant?
+2)Connected Data?
+3)Accurate?
+4)Enough to work with?
+
+-data relavant hona chahie matlab wo data dena hai jisse koi link hou.
+-connected data hona chahie matlab data complete hona chahie.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>.
+*Google nities*
+cloud native foundation
+AI appss
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+-Question must be sharp.
+-Data must be relevant.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+-Doccer(Containarization)
+Api : application programming
+Micro services(The way to look forward)
+1)Web page
+2Model
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+-kaggle(Membership)
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+FUNCTIONS:
+# (for comment)
+\\rstrip()
+\\lstrip()
+\\.strip()
+**(ye square kelie for eg: 3**2=3*3.)
+-type error:-
+ 

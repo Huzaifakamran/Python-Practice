@@ -1,0 +1,17 @@
+CLASS 3:
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>.
+>Array is an homogineous(srif 1 hi type ki values rakh sakte hai),
+List me hm different types ki values dalsakte hai.
+>Array is an static(means fixed size)
+>List is an Dynamic(means fixed size nh hoga jitni values append kerwana chahe kerwasakte hai)
+>for i in range(1,6) # python me for loop ese lagta hai
+print(i)
+O/p:
+1
+2
+3
+4
+5
+>>>>>>>>>>>>>>>>>>>>>>
+>POP=LIFO(Last In First Out)
+>Syntactic error means jb koi function ki spelling glt likhdi hou(for eg: frint instead of print)
